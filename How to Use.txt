@@ -1,0 +1,9 @@
+
+
+1:- Open script folder and right clik on folder and Open CMD.
+
+2:- In cmd write:- python email.py hit enter
+
+3:- Put You Mix Email list in task folder
+
+4:- You will Get result in result folder.
